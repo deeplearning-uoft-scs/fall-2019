@@ -1,0 +1,3 @@
+[submodule "CloudMaskRCNN"]
+	path = CloudMaskRCNN
+	url = https://github.com/nishp763/SCS-DL-3546-Final-Project
